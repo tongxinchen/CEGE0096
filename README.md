@@ -12,7 +12,7 @@
 ## Week 2
 
 - Lecture Slides: [Python and Version Control](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/2%20-%20Python%20and%20Version%20Control.pptx)
-- Solutions: [Introduction (Programming and Python)](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/2%20-%20Solutions.pptx)
+- Solutions: [Python and Version Control](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/2%20-%20Solutions.pptx)
 - Handout: [Using a Virtual Machine](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/Using%20a%20VM.md)
 - Practical Notebook: [Python Basics (II), Git and GitHub](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/2%20-%20Python%20Basics%20(II)%2C%20Git%20and%20GitHub.ipynb)
 - Practical Notebook with Solutions: [Python Basics (II), Git and GitHub](https://github.com/aldolipani/CEGE0096/blob/master/2%20-%20Week/2%20-%20Python%20Basics%20(II)%2C%20Git%20and%20GitHub%20with%20Solutions.ipynb)
@@ -20,27 +20,31 @@
 ## Week 3
 
 - Lecture Slides: [Python Data Structures, IDE and Debugger](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%2C%20IDE%20and%20Debugger.pptx)
+- Solutions: [Python Data Structures, IDE and Debugger](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Solutions.pptx)
 - Practical Notebook: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm.ipynb)
-
-<!---
 - Practical Notebook with Solutions: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm%20with%20Solutions.ipynb)
+
 
 ## Week 4
 
-- Lecture Slides: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20CEGE0096%20Object-Oriented%20Programming.pdf)
+- Lecture Slides: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20Object-Oriented%20Programming.pptx)
+- Solutions: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20Solutions.pptx)
 - Practical Notebook: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20Object-Oriented%20Programming.ipynb)
 - Practical Notebook with Solutions: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20Object-Oriented%20Programming%20with%20Solutions.ipynb)
 
 ## Week 5
 
-- Lecture Slides: [Geometry with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20CEGE0096%20Geometry%20with%20Python.pdf)
+- Lecture Slides: [Geometry with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Geometry%20with%20Python.pptx)
 - Practical Notebook: [Drawing with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Drawing%20with%20Python.ipynb)
-- Practical Notebook with Solutions: [Drawing with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Drawing%20with%20Python.ipynb)
+- Practical Notebook with Solutions: [Drawing with Python](https://github.com/aldolipani/CEGE0096/blob/master/5%20-%20Week/5%20-%20Drawing%20with%20Python%20with%20Solutions.ipynb)
 
 ## Week 6
 
-- Lecture Slides: [Geospatial Modelling](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20CEGE0096%20Geospatial%20Modelling.pdf)
+- Lecture Slides: [Geospatial Modelling](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20Geospatial%20Modelling.pptx)
 - Practical Notebook: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas.ipynb)
+
+<!---
+
 - Practical Notebook with Solutions: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas%20with%20Solutions.ipynb)
 
 ## Week 7

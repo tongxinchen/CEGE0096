@@ -24,7 +24,6 @@
 - Practical Notebook: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm.ipynb)
 - Practical Notebook with Solutions: [Python Data Structures and PyCharm](https://github.com/aldolipani/CEGE0096/blob/master/3%20-%20Week/3%20-%20Python%20Data%20Structures%20and%20PyCharm%20with%20Solutions.ipynb)
 
-
 ## Week 4
 
 - Lecture Slides: [Object-Oriented Programming](https://github.com/aldolipani/CEGE0096/blob/master/4%20-%20Week/4%20-%20Object-Oriented%20Programming.pptx)
@@ -42,20 +41,27 @@
 
 - Lecture Slides: [Geospatial Modelling](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20Geospatial%20Modelling.pptx)
 - Practical Notebook: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas.ipynb)
-
-<!---
-
 - Practical Notebook with Solutions: [NumPy and Pandas](https://github.com/aldolipani/CEGE0096/blob/master/6%20-%20Week/6%20-%20NumPy%20and%20Pandas%20with%20Solutions.ipynb)
 
 ## Week 7
 
-- Lecture Slides: [Vector and Raster Representations](https://github.com/aldolipani/CEGE0096/blob/master/7%20-%20Week/7%20-%20CEGE0096%20Vector%20and%20Raster%20Representations.pdf)
+- Lecture Slides: [Vector and Raster Representations](https://github.com/aldolipani/CEGE0096/blob/master/7%20-%20Week/7%20-%20Vector%20and%20Raster%20Representations.pptx)
 - Practical Notebook: [PyProj, Shapely, GeoPandas, and Rasterio](https://github.com/aldolipani/CEGE0096/blob/master/7%20-%20Week/7%20-%20PyProj%2C%20Shapely%2C%20GeoPandas%2C%20and%20Rasterio.ipynb)
 - Practical Notebook with Solutions: [PyProj, Shapely, GeoPandas, and Rasterio](https://github.com/aldolipani/CEGE0096/blob/master/7%20-%20Week/7%20-%20PyProj%2C%20Shapely%2C%20GeoPandas%2C%20and%20Rasterio%20with%20Solutions.ipynb)
 
 ## Week 8
 
-- Lecture Slides: [Tree and Graph Representations](https://github.com/aldolipani/CEGE0096/blob/master/8%20-%20Week/8%20-%20CEGE0096%20Tree%20and%20Graph%20Representations.pdf)
+- Lecture Slides: [Tree and Graph Representations](https://github.com/aldolipani/CEGE0096/blob/master/8%20-%20Week/8%20-%20Tree%20and%20Graph%20Representations.pptx)
 - Practical Notebook: [RTree and NetworkX](https://github.com/aldolipani/CEGE0096/blob/master/8%20-%20Week/8%20-%20RTree%20and%20NetworkX.ipynb)
 - Practical Notebook with Solutions: [RTree and NetworkX](https://github.com/aldolipani/CEGE0096/blob/master/8%20-%20Week/8%20-%20RTree%20and%20NetworkX%20with%20Solutions.ipynb)
--->
+
+## Week 9
+
+- Lecture Slides: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.pptx)
+- Practical Notebook: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms.ipynb)
+- Practical Notebook with Solutions: [Algorithms](https://github.com/aldolipani/CEGE0096/blob/master/9%20-%20Week/9%20-%20Algorithms%20with%20Solutions.ipynb)
+
+## Week 10
+
+- Industry Talk by Dr. Colin McLellan (Siemens): [Finding High Quality Geospatial Data](https://github.com/aldolipani/CEGE0096/blob/master/10%20-%20Week/10.1%20-%20Finding%20High%20Quality%20Geospatial%20Data.pptx)
+- Industry Talk by Federico Padua (Integration Alpha GmbH): From Science to Business and Cool Applications of GIS

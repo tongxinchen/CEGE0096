@@ -1,0 +1,21 @@
+name: geospatial
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.5
+  - cartopy=0.18.0
+  - proj=7.1.1
+  - numpy=1.19.1
+  - shapely=1.7.1
+  - rtree=0.9.4
+  - pip:
+    - jupyter==1.0.0
+    - geopandas==0.8.1
+    - descartes==1.1.0
+    - matplotlib==3.3.3
+    - rasterio==1.1.8
+    - networkx==2.5
+    - pandas==1.1.4
+    - pyproj==3.0.0
+    - scipy==1.5.4
